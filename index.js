@@ -7,6 +7,10 @@ const dogs = {
     name: "akita",
     nation: "ja",
   },
+  tosa: {
+    name: "tosa",
+    nation: "ja",
+  },
   husky: {
     name: "husky",
     nation: "ro",
